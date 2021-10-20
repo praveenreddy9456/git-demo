@@ -3,6 +3,9 @@ modified
 
 
 hello unstage modified files from stage to unstage
-
+900
+200
+800
+600
 
 we are going to commit on tuesday
