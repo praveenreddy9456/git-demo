@@ -2,7 +2,16 @@ modified
 
 
 
+
 hello unstage modified files from stage to unstage
+900
+200
+800
+600
+cg  ncfgkm
+vghmgyik
+100
+787hello unstage modified files from stage to unstage
 
 
 we are going to commit on tuesday
